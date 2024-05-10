@@ -1,0 +1,15 @@
+{
+    "name": "c53julian/packagist-test",
+    "description": "Some testing stuff",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Julian Hector",
+            "email": "julian@cure53.de"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Julian\\Testing\\": "src" }
+    },
+    "require": {}
+}

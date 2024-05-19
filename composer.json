@@ -1,11 +1,11 @@
 {
-    "name": "c53julian/packagist-test",
+    "name": "haqpl/packagist-test",
     "description": "Some testing stuff",
     "license": "MIT",
     "authors": [
         {
-            "name": "Julian Hector",
-            "email": "julian@cure53.de"
+            "name": "Maciej Piechota",
+            "email": "haqpl@volt.cure53.de"
         }
     ],
     "autoload": {
